@@ -1,5 +1,5 @@
 export default {
-  token: "MTAyMzIzNTg1MTE5NjU3OTg5MA.GiqdPN.NCdr1oeylKQZDq_iBd58PGBUpLV6URfhC85TFQ",
-  channelId: "1059712693692551198",
+  token: "OTE4MDYxNzg0NjAxMDcxNjM2.G5lrfd.5dddbWBuOYv-C7pM35AQuz81rvZDW0L-c4Xdd8",
+  channelId: "905273129918660678",
   timezone: "Asia/Jakarta",
 };
